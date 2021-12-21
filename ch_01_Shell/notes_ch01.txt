@@ -1,0 +1,7 @@
+1. note that, while assigning value to variable,
+    name=foo
+    There should be no space between variable name,=,value.
+    eg: name = foo/ name = "Manoj"/ name ="foo" : Wrong
+        name=foo/ name="Manoj Pandey"           :Right
+
+

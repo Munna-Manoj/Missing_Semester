@@ -1,0 +1,8 @@
+4(read) 2(write) 1(execute) -> add them to provide mixed authority.
+eg: chmode -R 744 [File name] 
+Here, 
+7 -> 4+2+1 rwx for user
+4 -> r-- for groups
+4 -> r-- for all others
+
+
